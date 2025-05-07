@@ -34,9 +34,6 @@ You can try out the editor by opening `index.html` in your browser.
 4. Apply desired filters and transformations.
 5. Click **Save Image** to download your edited version.
 
-## 📸 Screenshot
-
-![Easy Image Editor UI](preview.png) <!-- Add a screenshot file if available -->
 
 ## 📃 License
 
@@ -44,4 +41,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-> Made with ❤️ for quick and easy image editing.
+> Made with ❤️ By PriyanshuKarn1
